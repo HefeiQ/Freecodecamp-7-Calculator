@@ -1,0 +1,48 @@
+div {
+	margin-bottom: 2%;
+}
+html, body {
+	height: 100%;
+}
+#div_1 {
+	height: 100%;
+	margin: 0;
+	background-color: LightSteelBlue;
+}
+#mainDiv {
+	border-radius: 25px;
+	margin-top: 14%;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+	background-color: AliceBlue;
+}
+.header {
+	color: SteelBlue;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Serif;
+	font-size: 16px;
+}
+#screen {
+	width: 95%;
+	height: 30px;
+	background-color: white;
+	border: 1px solid SteelBlue;
+	margin-bottom: 3%;
+	margin-left:2.5%;
+	margin-right:2.5%;
+	text-align: right;
+}
+button {
+	width: 23%;
+	height: 30%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-weight: bold;
+	font-color: white;
+	background-color: SteelBlue;
+}
+.buttonTextFont {
+	font-weight: bold;
+	color: white;
+}
